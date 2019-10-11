@@ -1,0 +1,518 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Route /graph should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-caSCKo OLMic"
+  >
+    <div
+      class="sc-caSCKo OLMic"
+    >
+      <div
+        class="sc-bdVaJa sc-jDwBTQ wpHBS"
+        height="307"
+        width="1024"
+      />
+      <a
+        class="sc-Rmtcm gwGgYM sc-gisBJw kTmEgj"
+        href="/graph/explore"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo krxYEN"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Themen erkunden
+        </button>
+      </a>
+    </div>
+    <div
+      class="sc-bdVaJa sc-jhAzac ikxoXM"
+      font-size="1"
+    >
+      <div
+        class="sc-bdVaJa sc-fBuWsC sc-dVhcbM ftgZZc"
+        data-testid="toggle"
+        height="40"
+        width="40"
+      >
+        <svg
+          class="sc-fAjcbJ loiswx"
+          fill="blueMediumDark"
+        >
+          help.svg
+        </svg>
+      </div>
+    </div>
+    <div
+      class="sc-kjoXOD NPhyn"
+    >
+      <div
+        class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+      >
+        <div
+          class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+          data-testid="submit"
+          height="36"
+          width="36"
+        >
+          <svg
+            class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+          >
+            search.svg
+          </svg>
+        </div>
+        <input
+          class="Search__Input-sc-18xh3im-1 ShqGu"
+          color="blueMediumDark"
+          data-testid="input"
+          font-size="1"
+          height="36"
+          opacity="0"
+          placeholder="Suchbegriff eingeben"
+          size="20"
+          type="text"
+          value=""
+          width="36px"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-hzDkRC cyrhHJ sc-cHGsZl cydaOB"
+    >
+      <a
+        class="sc-Rmtcm gwGgYM"
+        href="/map"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Einrichtungen
+        </button>
+      </a>
+      <a
+        aria-current="page"
+        class="sc-Rmtcm gwGgYM active"
+        href="/graph"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Kollektionen
+        </button>
+      </a>
+    </div>
+  </div>
+  <div
+    class="sc-bdVaJa iHZvIS"
+    style="opacity: 0;"
+  >
+    <div
+      class="sc-bdVaJa sc-bwzfXH cnoQWm"
+    >
+      <div
+        class="sc-bdVaJa sc-bwzfXH cPJRUX"
+        width="1,1,1,1,0.75,1"
+      >
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kkGfuU isncOJ"
+          color="blueDark"
+        >
+          Lade Statistiken ...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Route /graph/explore should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-caSCKo OLMic"
+  >
+    <div
+      class="sc-caSCKo OLMic"
+    >
+      <div
+        class="sc-bdVaJa sc-jDwBTQ wpHBS"
+        height="307"
+        width="1024"
+      />
+      <a
+        class="sc-Rmtcm gwGgYM sc-gisBJw kTmEgj"
+        href="/graph"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo krxYEN"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          zur Übersicht
+        </button>
+      </a>
+    </div>
+    <div
+      class="sc-bdVaJa sc-jhAzac ikxoXM"
+      font-size="1"
+    >
+      <div
+        class="sc-bdVaJa sc-fBuWsC sc-dVhcbM ftgZZc"
+        data-testid="toggle"
+        height="40"
+        width="40"
+      >
+        <svg
+          class="sc-fAjcbJ loiswx"
+          fill="blueMediumDark"
+        >
+          help.svg
+        </svg>
+      </div>
+    </div>
+    <div
+      class="sc-kjoXOD NPhyn"
+    >
+      <div
+        class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+      >
+        <div
+          class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+          data-testid="submit"
+          height="36"
+          width="36"
+        >
+          <svg
+            class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+          >
+            search.svg
+          </svg>
+        </div>
+        <input
+          class="Search__Input-sc-18xh3im-1 ShqGu"
+          color="blueMediumDark"
+          data-testid="input"
+          font-size="1"
+          height="36"
+          opacity="0"
+          placeholder="Suchbegriff eingeben"
+          size="20"
+          type="text"
+          value=""
+          width="36px"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-hzDkRC cyrhHJ sc-cHGsZl cydaOB"
+    >
+      <a
+        class="sc-Rmtcm gwGgYM"
+        href="/map?q=test"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Einrichtungen
+        </button>
+      </a>
+      <a
+        aria-current="page"
+        class="sc-Rmtcm gwGgYM active"
+        href="/graph?q=test"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Kollektionen
+        </button>
+      </a>
+    </div>
+  </div>
+  <div
+    class="sc-bdVaJa iHZvIS"
+    style="opacity: 0;"
+  >
+    <div
+      class="sc-bdVaJa sc-bwzfXH cnoQWm"
+    >
+      <div
+        class="sc-bdVaJa sc-bwzfXH cPJRUX"
+        width="1,1,1,1,0.75,1"
+      >
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kkGfuU isncOJ"
+          color="blueDark"
+        >
+          Lade Statistiken ...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Route /map should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-caSCKo OLMic"
+  >
+    <div
+      data-mock="fake-map"
+    />
+    <div
+      class="sc-bdVaJa sc-jhAzac ikxoXM"
+      font-size="1"
+    >
+      <div
+        class="sc-bdVaJa sc-fBuWsC sc-dVhcbM ftgZZc"
+        data-testid="toggle"
+        height="40"
+        width="40"
+      >
+        <svg
+          class="sc-fAjcbJ loiswx"
+          fill="blueMediumDark"
+        >
+          help.svg
+        </svg>
+      </div>
+    </div>
+    <div
+      class="sc-kjoXOD NPhyn"
+    >
+      <div
+        class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+      >
+        <div
+          class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+          data-testid="submit"
+          height="36"
+          width="36"
+        >
+          <svg
+            class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+          >
+            search.svg
+          </svg>
+        </div>
+        <input
+          class="Search__Input-sc-18xh3im-1 ShqGu"
+          color="blueMediumDark"
+          data-testid="input"
+          font-size="1"
+          height="36"
+          opacity="0"
+          placeholder="Suchbegriff eingeben"
+          size="20"
+          type="text"
+          value=""
+          width="36px"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-hzDkRC cyrhHJ sc-cHGsZl cydaOB"
+    >
+      <a
+        aria-current="page"
+        class="sc-Rmtcm gwGgYM active"
+        href="/map"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Einrichtungen
+        </button>
+      </a>
+      <a
+        class="sc-Rmtcm gwGgYM"
+        href="/graph"
+      >
+        <button
+          class="sc-bdVaJa sc-EHOje sc-bRBYWo gDgYoz"
+          color="blueMediumDark"
+          font-size="inherit"
+          font-weight="bold"
+        >
+          Kollektionen
+        </button>
+      </a>
+    </div>
+  </div>
+  <div
+    class="sc-bdVaJa iHZvIS"
+    style="opacity: 0;"
+  >
+    <div
+      class="sc-bdVaJa sc-bwzfXH cnoQWm"
+    >
+      <div
+        class="sc-bdVaJa sc-bwzfXH cPJRUX"
+        width="1,1,1,1,0.75,1"
+      >
+        <div
+          class="sc-bdVaJa sc-htoDjs bZvMhP"
+        >
+          <h2
+            class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+            color="blueDark"
+            font-size="2"
+            font-weight="500"
+          >
+            Lizenzstatus
+          </h2>
+          <div
+            class="sc-bdVaJa sc-eNQAEJ dChLpc"
+          >
+            <div
+              class="sc-bdVaJa sc-jzJRlG kHObkz"
+              data-testid="grid"
+              size="10"
+            />
+          </div>
+          <ul
+            class="sc-ckVGcZ eHdLWN"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-htoDjs bZvMhP"
+        >
+          <h2
+            class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+            color="blueDark"
+            font-size="2"
+            font-weight="500"
+          >
+            Erscheinungsjahr
+          </h2>
+          <div
+            class="sc-bdVaJa sc-kAzzGY csheVq"
+            height="190"
+            width="76"
+          >
+            <div
+              class="sc-bdVaJa sc-chPdSV ecOJGY"
+              y="79"
+            >
+              <div
+                class="sc-bdVaJa sc-kgoBCf loeOHy"
+                width="28"
+              />
+              <div
+                class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+                color="grey"
+                font-size="0"
+                width="40"
+              >
+                0
+              </div>
+            </div>
+          </div>
+          <ul
+            class="sc-ckVGcZ dOyuhG"
+          >
+            <li
+              class="sc-jKJlTe hqaXqp"
+              font-size="0"
+            >
+              Erfassung abgeschlossen
+            </li>
+            <li
+              class="sc-jKJlTe ItYRm"
+              font-size="0"
+            >
+              Erfassung in Arbeit
+            </li>
+          </ul>
+        </div>
+        <div
+          class="sc-bdVaJa sc-htoDjs bZvMhP"
+        >
+          <h2
+            class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+            color="blueDark"
+            font-size="2"
+            font-weight="500"
+          >
+            Sprache
+          </h2>
+          <div
+            class="sc-kEYyzF kGRPgZ"
+            height="238"
+          >
+            <table
+              class="sc-iwsKbI XZnfg"
+            >
+              <tbody />
+            </table>
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-htoDjs bZvMhP"
+        >
+          <h2
+            class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+            color="blueDark"
+            font-size="2"
+            font-weight="500"
+          >
+            Publikationsform
+          </h2>
+          <div
+            class="sc-kEYyzF kGRPgZ"
+            height="238"
+          >
+            <table
+              class="sc-iwsKbI XZnfg"
+            >
+              <tbody />
+            </table>
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-htoDjs bZvMhP"
+        >
+          <h2
+            class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+            color="blueDark"
+            font-size="2"
+            font-weight="500"
+          >
+            Thema
+          </h2>
+          <div
+            class="sc-bdVaJa sc-eNQAEJ dChLpc"
+          >
+            <div
+              class="sc-bdVaJa sc-jzJRlG kHObkz"
+              data-testid="grid"
+              size="10"
+            />
+          </div>
+          <ul
+            class="sc-ckVGcZ eHdLWN"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

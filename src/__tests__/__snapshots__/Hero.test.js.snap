@@ -1,0 +1,293 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hero /> should match snapshot on route \`/graph/explore\` 1`] = `
+<div
+  class="sc-eHgmQL dpAtYH"
+>
+  <div
+    class="sc-eHgmQL dpAtYH"
+  >
+    <div
+      class="sc-bdVaJa sc-jzJRlG klRcDP"
+      height="400"
+      width="400"
+    />
+    <a
+      class="sc-dxgOiQ hTjMfW sc-cvbbAY gcHweU"
+      href="/graph"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ kCPMKo"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        zur Übersicht
+      </button>
+    </a>
+  </div>
+  <div
+    class="sc-bdVaJa sc-eNQAEJ hwlgxD"
+    font-size="1"
+  >
+    <div
+      class="sc-bdVaJa sc-hMqMXs sc-kkGfuU ljBZyT"
+      data-testid="toggle"
+      height="40"
+      width="40"
+    >
+      <svg
+        class="sc-hSdWYo lnHmQl"
+        fill="blueMediumDark"
+      >
+        help.svg
+      </svg>
+    </div>
+  </div>
+  <div
+    class="sc-jWBwVP jxrrWj"
+  >
+    <div
+      class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+    >
+      <div
+        class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+        data-testid="submit"
+        height="36"
+        width="36"
+      >
+        <svg
+          class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+        >
+          search.svg
+        </svg>
+      </div>
+      <input
+        class="Search__Input-sc-18xh3im-1 ShqGu"
+        color="blueMediumDark"
+        data-testid="input"
+        font-size="1"
+        height="36"
+        opacity="0"
+        placeholder="Suchbegriff eingeben"
+        size="20"
+        type="text"
+        value=""
+        width="36px"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-jKJlTe giNbvS sc-brqgnP fLbqjn"
+  >
+    <a
+      class="sc-dxgOiQ hTjMfW"
+      href="/map"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Einrichtungen
+      </button>
+    </a>
+    <a
+      aria-current="page"
+      class="sc-dxgOiQ hTjMfW active"
+      href="/graph"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Kollektionen
+      </button>
+    </a>
+  </div>
+</div>
+`;
+
+exports[`<Hero /> should match snapshot on route \`/graph\` 1`] = `
+<div
+  class="sc-eHgmQL dpAtYH"
+>
+  <div
+    class="sc-eHgmQL dpAtYH"
+  >
+    <div
+      class="sc-bdVaJa sc-jzJRlG klRcDP"
+      height="400"
+      width="400"
+    />
+    <a
+      class="sc-dxgOiQ hTjMfW sc-cvbbAY gcHweU"
+      href="/graph/explore"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ kCPMKo"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Themen erkunden
+      </button>
+    </a>
+  </div>
+  <div
+    class="sc-bdVaJa sc-eNQAEJ hwlgxD"
+    font-size="1"
+  >
+    <div
+      class="sc-bdVaJa sc-hMqMXs sc-kkGfuU ljBZyT"
+      data-testid="toggle"
+      height="40"
+      width="40"
+    >
+      <svg
+        class="sc-hSdWYo lnHmQl"
+        fill="blueMediumDark"
+      >
+        help.svg
+      </svg>
+    </div>
+  </div>
+  <div
+    class="sc-jWBwVP jxrrWj"
+  >
+    <div
+      class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+    >
+      <div
+        class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+        data-testid="submit"
+        height="36"
+        width="36"
+      >
+        <svg
+          class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+        >
+          search.svg
+        </svg>
+      </div>
+      <input
+        class="Search__Input-sc-18xh3im-1 ShqGu"
+        color="blueMediumDark"
+        data-testid="input"
+        font-size="1"
+        height="36"
+        opacity="0"
+        placeholder="Suchbegriff eingeben"
+        size="20"
+        type="text"
+        value=""
+        width="36px"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-jKJlTe giNbvS sc-brqgnP fLbqjn"
+  >
+    <a
+      class="sc-dxgOiQ hTjMfW"
+      href="/map"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Einrichtungen
+      </button>
+    </a>
+    <a
+      aria-current="page"
+      class="sc-dxgOiQ hTjMfW active"
+      href="/graph"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Kollektionen
+      </button>
+    </a>
+  </div>
+</div>
+`;
+
+exports[`<Hero /> without route sould match snapshot 1`] = `
+<div
+  class="sc-eHgmQL dpAtYH"
+>
+  <div
+    class="sc-jWBwVP jxrrWj"
+  >
+    <div
+      class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+    >
+      <div
+        class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+        data-testid="submit"
+        height="36"
+        width="36"
+      >
+        <svg
+          class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+        >
+          search.svg
+        </svg>
+      </div>
+      <input
+        class="Search__Input-sc-18xh3im-1 ShqGu"
+        color="blueMediumDark"
+        data-testid="input"
+        font-size="1"
+        height="36"
+        opacity="0"
+        placeholder="Suchbegriff eingeben"
+        size="20"
+        type="text"
+        value=""
+        width="36px"
+      />
+    </div>
+  </div>
+  <div
+    class="sc-jKJlTe giNbvS sc-brqgnP fLbqjn"
+  >
+    <a
+      class="sc-dxgOiQ hTjMfW"
+      href="/map"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Einrichtungen
+      </button>
+    </a>
+    <a
+      class="sc-dxgOiQ hTjMfW"
+      href="/graph"
+    >
+      <button
+        class="sc-bdVaJa sc-EHOje sc-ckVGcZ gKdOru"
+        color="blueMediumDark"
+        font-size="inherit"
+        font-weight="bold"
+      >
+        Kollektionen
+      </button>
+    </a>
+  </div>
+</div>
+`;

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="101" viewBox="0 0 244 101">
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -3)">
+    <circle cx="8" cy="11" r="8" fill="#92CDDA" opacity=".66"/>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="31" y="15">Kollektion</tspan>
+    </text>
+    <circle cx="8" cy="40" r="8" fill="#E6E6E6" opacity=".66"/>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="31" y="44">Thema</tspan>
+    </text>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="31" y="102">Verwandtes Thema</tspan>
+    </text>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="31" y="73">Zuordnung Kollektion – Thema</tspan>
+    </text>
+    <path stroke="#E6E6E6" stroke-linecap="square" stroke-width="2" d="M2,69.5 L14,69.5"/>
+    <path stroke="#92CDDA" stroke-linecap="square" stroke-width="2" d="M2,99 L14,99"/>
+  </g>
+</svg>

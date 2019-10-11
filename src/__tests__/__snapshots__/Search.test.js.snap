@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Search /> should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa Search__SearchContainer-sc-18xh3im-0 hkYogB"
+  >
+    <div
+      class="sc-bdVaJa Search__IconContainer-sc-18xh3im-2 Search__SearchIconContainer-sc-18xh3im-3 cBQBHZ"
+      data-testid="submit"
+      height="36"
+      width="36"
+    >
+      <svg
+        class="Search___StyledSearchSVG-sc-18xh3im-5 bSZqyx"
+      >
+        search.svg
+      </svg>
+    </div>
+    <input
+      class="Search__Input-sc-18xh3im-1 ShqGu"
+      color="blueMediumDark"
+      data-testid="input"
+      font-size="1"
+      height="36"
+      opacity="0"
+      placeholder="Suchbegriff eingeben"
+      size="20"
+      type="text"
+      value=""
+      width="36px"
+    />
+  </div>
+</div>
+`;
