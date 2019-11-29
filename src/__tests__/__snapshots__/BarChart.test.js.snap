@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BarChart /> with data should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      Bar chart title
+    </h2>
+    <div
+      class="sc-jKJlTe hcfcuU"
+      height="238"
+    >
+      <table
+        class="sc-iwsKbI XZnfg"
+      >
+        <tbody>
+          <tr
+            class="sc-gZMcBi kbFdoy"
+          >
+            <td
+              class="sc-VigVT frYtZr"
+              color="greyDark"
+              title="var2"
+            >
+              var2
+            </td>
+            <td
+              class="sc-jTzLTM bwfcDe"
+              color="grey"
+            >
+              30
+            </td>
+            <td
+              class="sc-fjdhpX hAUhPj"
+            >
+              <div
+                class="sc-bdVaJa sc-gqjmRU dObLIX"
+                height="2"
+                width="100%"
+              />
+            </td>
+          </tr>
+          <tr
+            class="sc-gZMcBi kbFdoy"
+          >
+            <td
+              class="sc-VigVT frYtZr"
+              color="greyDark"
+              title="var1"
+            >
+              var1
+            </td>
+            <td
+              class="sc-jTzLTM bwfcDe"
+              color="grey"
+            >
+              10
+            </td>
+            <td
+              class="sc-fjdhpX hAUhPj"
+            >
+              <div
+                class="sc-bdVaJa sc-gqjmRU cIGiEG"
+                height="2"
+                width="34.666666666666664%"
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<BarChart /> without data should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      Bar chart title
+    </h2>
+    <div
+      class="sc-jKJlTe hcfcuU"
+      height="238"
+    >
+      <table
+        class="sc-iwsKbI XZnfg"
+      >
+        <tbody />
+      </table>
+    </div>
+  </div>
+</div>
+`;

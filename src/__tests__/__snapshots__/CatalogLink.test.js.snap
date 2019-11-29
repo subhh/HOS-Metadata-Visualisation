@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchResult /> renders correctly 1`] = `<DocumentFragment />`;
+
+exports[`<SearchResult /> renders correctly 2`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdVaJa sc-dnqmqq lortbm"
+  >
+    <div
+      class="sc-bdVaJa hxBhjM"
+    >
+      <div
+        class="sc-bdVaJa sc-htpNat sc-iwsKbI sc-gZMcBi iSrIHg"
+        color="blueDark"
+        display="inline-block"
+        font-size="1"
+      >
+        10
+      </div>
+       
+      <div
+        class="sc-bdVaJa sc-htpNat sc-iwsKbI sc-gqjmRU kAhUWs"
+        color="greyDark"
+        display="inline-block"
+        font-size="1"
+      >
+        Publikationen
+      </div>
+    </div>
+    <a
+      class="sc-bdVaJa sc-htpNat sc-ifAKCX sc-htoDjs iAeHbj"
+      color="blue"
+      font-size="1"
+      href="/de/suchen-entdecken/discovery/?tx_find_find[__referrer][@extension]=Find&tx_find_find[__referrer][@vendor]=Subugoe&tx_find_find[__referrer][@controller]=Search&tx_find_find[__referrer][@action]=index&tx_find_find[__referrer][arguments]=YToxOntzOjE6InEiO2E6Nzp7czozOiJhbGwiO3M6MTU6IkRhdGEgUHJvY2Vzc2luZyI7czo3OiJhdXRob3JzIjtzOjA6IiI7czo3OiJkZWZhdWx0IjtzOjA6IiI7czo4OiJmdWxsdGV4dCI7czowOiIiO3M6MTA6InB1Ymxpc2hlcnMiO3M6MDoiIjtzOjg6InN1YmplY3RzIjtzOjA6IiI7czo2OiJ0aXRsZXMiO3M6MDoiIjt9fQ==84ceee3840c75fe70ccbde38d63fe12889b190b6&tx_find_find[__referrer][@request]=a:4:{s:10:\\"@extension\\";s:4:\\"Find\\";s:11:\\"@controller\\";s:6:\\"Search\\";s:7:\\"@action\\";s:5:\\"index\\";s:7:\\"@vendor\\";s:7:\\"Subugoe\\";}fcac206facd7fc97ccf479c8905fa76ff43930c6&tx_find_find[__trustedProperties]=a:1:{s:1:\\"q\\";a:7:{s:7:\\"default\\";i:1;s:3:\\"all\\";i:1;s:7:\\"authors\\";i:1;s:8:\\"fulltext\\";i:1;s:10:\\"publishers\\";i:1;s:8:\\"subjects\\";i:1;s:6:\\"titles\\";i:1;}}6c850a55e9c482f4b614787373e30d12a8823c5d&tx_find_find[q][default]=&tx_find_find[q][all]=\\"\\"&tx_find_find[q][authors]=&tx_find_find[q][fulltext]=&tx_find_find[q][publishers]=&tx_find_find[q][subjects]=&tx_find_find[q][titles]=#tx_find"
+    >
+      anzeigen
+    </a>
+  </div>
+</DocumentFragment>
+`;

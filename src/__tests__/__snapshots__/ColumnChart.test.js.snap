@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ColumnChart /> with data should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      title
+    </h2>
+    <div
+      class="sc-bdVaJa sc-kAzzGY kVBcOy"
+      height="250"
+      width="100"
+    >
+      <div
+        class="sc-bdVaJa sc-chPdSV izGVhe"
+        y="218"
+      >
+        <div
+          class="sc-bdVaJa sc-kgoBCf liHRjq"
+          width="52"
+        />
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+          color="grey"
+          font-size="0"
+          width="40"
+        >
+          0
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa sc-chPdSV vSWnj"
+        y="145.33333333333334"
+      >
+        <div
+          class="sc-bdVaJa sc-kgoBCf liHRjq"
+          width="52"
+        />
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+          color="grey"
+          font-size="0"
+          width="40"
+        >
+          10
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa sc-chPdSV ifnPcl"
+        y="72.66666666666669"
+      >
+        <div
+          class="sc-bdVaJa sc-kgoBCf liHRjq"
+          width="52"
+        />
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+          color="grey"
+          font-size="0"
+          width="40"
+        >
+          20
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa sc-chPdSV pRZwl"
+        y="0"
+      >
+        <div
+          class="sc-bdVaJa sc-kgoBCf liHRjq"
+          width="52"
+        />
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+          color="grey"
+          font-size="0"
+          width="40"
+        >
+          30
+        </div>
+      </div>
+      <div
+        class="sc-bdVaJa sc-chPdSV pRZwl"
+        y="0"
+      >
+        <div
+          class="sc-bdVaJa sc-kGXeez gVfvLo"
+          height="72.66666666666666"
+          width="8"
+          x="-4"
+          y="145.33333333333334"
+        />
+      </div>
+      <div
+        class="sc-bdVaJa sc-chPdSV pRZwl"
+        y="0"
+      >
+        <div
+          class="sc-bdVaJa sc-kGXeez kNIGie"
+          height="218"
+          width="8"
+          x="-4"
+          y="0"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<ColumnChart /> without data should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      title
+    </h2>
+    <div
+      class="sc-bdVaJa sc-kAzzGY bQitgL"
+      height="250"
+      width="76"
+    >
+      <div
+        class="sc-bdVaJa sc-chPdSV kTYTZz"
+        y="109"
+      >
+        <div
+          class="sc-bdVaJa sc-kgoBCf loeOHy"
+          width="28"
+        />
+        <div
+          class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+          color="grey"
+          font-size="0"
+          width="40"
+        >
+          0
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

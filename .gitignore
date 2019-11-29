@@ -1,0 +1,29 @@
+# dependencies
+/node_modules
+
+# development
+setupProxy.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# assets
+src/fonts
+public/glyphs
+
+# deployment
+scripts
+
+# misc
+.DS_Store
+.env
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode
+

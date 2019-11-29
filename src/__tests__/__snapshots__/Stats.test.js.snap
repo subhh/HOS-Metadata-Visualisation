@@ -1,0 +1,2632 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div
+  class="sc-bdVaJa sc-bwzfXH cnoQWm"
+>
+  <div
+    class="sc-bdVaJa sc-bwzfXH cPJRUX"
+    width="1,1,1,1,0.75,1"
+  >
+    <div
+      class="sc-bdVaJa sc-htoDjs bZvMhP"
+    >
+      <h2
+        class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+        color="blueDark"
+        font-size="2"
+        font-weight="500"
+      >
+        Lizenzstatus
+      </h2>
+      <div
+        class="sc-bdVaJa sc-eNQAEJ dChLpc"
+      >
+        <div
+          class="sc-bdVaJa sc-jzJRlG kHObkz"
+          data-testid="grid"
+          size="10"
+        >
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+        </div>
+      </div>
+      <ul
+        class="sc-ckVGcZ eHdLWN"
+      >
+        <li
+          class="sc-jKJlTe ItYRm"
+          font-size="0"
+        >
+          Open Access
+        </li>
+        <li
+          class="sc-jKJlTe hqaXqp"
+          font-size="0"
+        >
+          Closed/unbekannt
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-bdVaJa sc-htoDjs bZvMhP"
+    >
+      <h2
+        class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+        color="blueDark"
+        font-size="2"
+        font-weight="500"
+      >
+        Erscheinungsjahr
+      </h2>
+      <div
+        class="sc-bdVaJa sc-kAzzGY dYiXlH"
+        height="190"
+        width="376"
+      >
+        <div
+          class="sc-bdVaJa sc-chPdSV fLnRFL"
+          y="158"
+        >
+          <div
+            class="sc-bdVaJa sc-kgoBCf kRoFrr"
+            width="328"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+            color="grey"
+            font-size="0"
+            width="40"
+          >
+            0
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV wdkIC"
+          y="114.07450653322213"
+        >
+          <div
+            class="sc-bdVaJa sc-kgoBCf kRoFrr"
+            width="328"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+            color="grey"
+            font-size="0"
+            width="40"
+          >
+            2000
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV lexWZF"
+          y="70.14901306644427"
+        >
+          <div
+            class="sc-bdVaJa sc-kgoBCf kRoFrr"
+            width="328"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+            color="grey"
+            font-size="0"
+            width="40"
+          >
+            4000
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV bXhJRT"
+          y="26.22351959966639"
+        >
+          <div
+            class="sc-bdVaJa sc-kgoBCf kRoFrr"
+            width="328"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX gfIBzX"
+            color="grey"
+            font-size="0"
+            width="40"
+          >
+            6000
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV bvJwlr"
+          x="60.60741364785173"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            1995
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV hDMBvd"
+          x="98.46419545071609"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            1998
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV hzzNio"
+          x="136.32097725358045"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2001
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV dkEUtz"
+          x="174.14321819713564"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2004
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV kTQnEv"
+          x="212"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2007
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV ghPAwF"
+          x="249.8567818028644"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2010
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV kDiuAO"
+          x="287.7135636057287"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2013
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV kDOiNl"
+          x="325.5358045492839"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2016
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV bylmRZ"
+          x="363.39258635214827"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-dxgOiQ bkMkhS"
+            height="6"
+            y="166"
+          />
+          <div
+            class="sc-bdVaJa sc-htpNat sc-kpOJdX LvGXS"
+            color="grey"
+            font-size="0"
+            width="40"
+            y="182"
+          >
+            2019
+          </div>
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV grNFoW"
+          x="60.60885285032295"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez iQjRwq"
+            height="0.35140394773421235"
+            width="8"
+            x="-4"
+            y="157.6485960522658"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV fRJEnq"
+          x="73.21626649817466"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez esoBAL"
+            height="0.37336669446762016"
+            width="8"
+            x="-4"
+            y="157.62663330553238"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV kwbeHf"
+          x="85.85822100533558"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez jpSQno"
+            height="1.0102863497358783"
+            width="8"
+            x="-4"
+            y="156.98971365026412"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV kKCVWL"
+          x="98.46563465318731"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez cHbTwc"
+            height="1.0981373366694527"
+            width="8"
+            x="-4"
+            y="156.90186266333055"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV bjOCQq"
+          x="111.07304830103904"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez brjilm"
+            height="5.380872949680281"
+            width="8"
+            x="-4"
+            y="152.61912705031972"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV gLcExC"
+          x="123.68046194889077"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez hdTzUO"
+            height="6.500973033083113"
+            width="8"
+            x="-4"
+            y="151.4990269669169"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV hnSNzP"
+          x="136.32241645605168"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez kBRRCD"
+            height="13.726716708368087"
+            width="8"
+            x="-4"
+            y="144.2732832916319"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV fsiECN"
+          x="148.92983010390338"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez iHzMYX"
+            height="15.264108979705298"
+            width="8"
+            x="-4"
+            y="142.7358910202947"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV dkLfCZ"
+          x="161.5372437517551"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez gLSSIV"
+            height="16.73561301084237"
+            width="8"
+            x="-4"
+            y="141.26438698915763"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV fopIgZ"
+          x="174.14465739960684"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez bPEDmG"
+            height="17.30664442591049"
+            width="8"
+            x="-4"
+            y="140.6933555740895"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV geEzVS"
+          x="186.78661190676777"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez hjtmAp"
+            height="20.644981929385608"
+            width="8"
+            x="-4"
+            y="137.3550180706144"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV CbrqC"
+          x="199.39402555461947"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez cgMbGS"
+            height="26.42118432026689"
+            width="8"
+            x="-4"
+            y="131.5788156797331"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV bjEXuW"
+          x="212.00143920247123"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez bJPiUG"
+            height="38.083402835696404"
+            width="8"
+            x="-4"
+            y="119.9165971643036"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV dNxktM"
+          x="224.60885285032293"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez dzxczD"
+            height="41.509591326105095"
+            width="8"
+            x="-4"
+            y="116.4904086738949"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV cLEIyw"
+          x="237.25080735748386"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez cGjNcp"
+            height="123.34278565471226"
+            width="8"
+            x="-4"
+            y="34.65721434528774"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV eLvaRY"
+          x="249.85822100533557"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez geSrsV"
+            height="125.07784264664998"
+            width="8"
+            x="-4"
+            y="32.922157353350016"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV fAtYEy"
+          x="262.4656346531873"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez gfjobo"
+            height="136.41061996107868"
+            width="8"
+            x="-4"
+            y="21.58938003892132"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV jQAovH"
+          x="275.073048301039"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez idvBhP"
+            height="158"
+            width="8"
+            x="-4"
+            y="0"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV cXoGSe"
+          x="287.7150028082"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez yFftr"
+            height="142.97748123436196"
+            width="8"
+            x="-4"
+            y="15.02251876563804"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV fdWZxh"
+          x="300.32241645605166"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez hVkrP"
+            height="156.92382541006393"
+            width="8"
+            x="-4"
+            y="1.0761745899360733"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV ivTDFQ"
+          x="312.9298301039034"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez lnBsaU"
+            height="140.01251042535446"
+            width="8"
+            x="-4"
+            y="17.987489574645537"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV hOPNZo"
+          x="325.5372437517551"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez iywvNt"
+            height="137.06950236308035"
+            width="8"
+            x="-4"
+            y="20.930497636919654"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV eRlQRl"
+          x="338.179198258916"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez dlDCiu"
+            height="82.36030025020851"
+            width="8"
+            x="-4"
+            y="75.63969974979149"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV gZlQmg"
+          x="350.78661190676775"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez hqkSep"
+            height="85.10564359188213"
+            width="8"
+            x="-4"
+            y="72.89435640811787"
+          />
+        </div>
+        <div
+          class="sc-bdVaJa sc-chPdSV cKHQPc"
+          x="363.3940255546195"
+          y="0"
+        >
+          <div
+            class="sc-bdVaJa sc-kGXeez dpwCbP"
+            height="18.27300528217961"
+            width="8"
+            x="-4"
+            y="139.7269947178204"
+          />
+        </div>
+      </div>
+      <ul
+        class="sc-ckVGcZ dOyuhG"
+      >
+        <li
+          class="sc-jKJlTe hqaXqp"
+          font-size="0"
+        >
+          Erfassung abgeschlossen
+        </li>
+        <li
+          class="sc-jKJlTe ItYRm"
+          font-size="0"
+        >
+          Erfassung in Arbeit
+        </li>
+      </ul>
+    </div>
+    <div
+      class="sc-bdVaJa sc-htoDjs bZvMhP"
+    >
+      <h2
+        class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+        color="blueDark"
+        font-size="2"
+        font-weight="500"
+      >
+        Sprache
+      </h2>
+      <div
+        class="sc-kEYyzF IyGtB"
+        height="238"
+      >
+        <table
+          class="sc-iwsKbI XZnfg"
+        >
+          <tbody>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Deutsch"
+              >
+                Deutsch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                36.400
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU dObLIX"
+                  height="2"
+                  width="100%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Englisch"
+              >
+                Englisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                32.590
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU hJAeAT"
+                  height="2"
+                  width="89.74230769230769%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Französisch"
+              >
+                Französisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                94
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU ggmStU"
+                  height="2"
+                  width="2.253076923076923%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Spanisch"
+              >
+                Spanisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                89
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU hyIlNw"
+                  height="2"
+                  width="2.2396153846153846%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Russisch"
+              >
+                Russisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                30
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU ebEQPF"
+                  height="2"
+                  width="2.080769230769231%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Italienisch"
+              >
+                Italienisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                28
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU WzTjD"
+                  height="2"
+                  width="2.0753846153846154%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Portugiesisch"
+              >
+                Portugiesisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                21
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU jInqhW"
+                  height="2"
+                  width="2.0565384615384614%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Niederländisch"
+              >
+                Niederländisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                9
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU hxTWpZ"
+                  height="2"
+                  width="2.024230769230769%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Chinesisch"
+              >
+                Chinesisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                5
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU VimEF"
+                  height="2"
+                  width="2.0134615384615384%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Griechisch"
+              >
+                Griechisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                4
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU dnrpwg"
+                  height="2"
+                  width="2.0107692307692306%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Polnisch"
+              >
+                Polnisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                4
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU dnrpwg"
+                  height="2"
+                  width="2.0107692307692306%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Turkmenisch"
+              >
+                Turkmenisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                3
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU fOMozg"
+                  height="2"
+                  width="2.008076923076923%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Norwegisch"
+              >
+                Norwegisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                2
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU bHDgGt"
+                  height="2"
+                  width="2.0053846153846155%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="fin"
+              >
+                fin
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                1
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU cpxBku"
+                  height="2"
+                  width="2.0026923076923078%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Japanisch"
+              >
+                Japanisch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                1
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU cpxBku"
+                  height="2"
+                  width="2.0026923076923078%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="por"
+              >
+                por
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                1
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU cpxBku"
+                  height="2"
+                  width="2.0026923076923078%"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="sc-bdVaJa sc-bwzfXH quZnZ"
+      >
+        <a
+          class="sc-bdVaJa sc-htpNat sc-ifAKCX sc-hMqMXs fwGqEV"
+          color="blue"
+          font-size="0"
+          font-weight="500"
+        >
+          Alles anzeigen
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-bdVaJa sc-htoDjs bZvMhP"
+    >
+      <h2
+        class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+        color="blueDark"
+        font-size="2"
+        font-weight="500"
+      >
+        Publikationsform
+      </h2>
+      <div
+        class="sc-kEYyzF IyGtB"
+        height="238"
+      >
+        <table
+          class="sc-iwsKbI XZnfg"
+        >
+          <tbody>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Artikel"
+              >
+                Artikel
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                46.813
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU dObLIX"
+                  height="2"
+                  width="100%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Dissertation"
+              >
+                Dissertation
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                8.158
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU hEdjew"
+                  height="2"
+                  width="19.078247495353857%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Thesis"
+              >
+                Thesis
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                5.167
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU bCbiq"
+                  height="2"
+                  width="12.816781663213211%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Buch"
+              >
+                Buch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                4.774
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU elleEG"
+                  height="2"
+                  width="11.994061478649094%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Digital"
+              >
+                Digital
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                2.148
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU ixakPr"
+                  height="2"
+                  width="6.496699634716853%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Diskussionspapier"
+              >
+                Diskussionspapier
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                604
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU smnOD"
+                  height="2"
+                  width="3.264435092816098%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Technischer Bericht"
+              >
+                Technischer Bericht
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                512
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU fdcwnd"
+                  height="2"
+                  width="3.071839019075898%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Andere"
+              >
+                Andere
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                395
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU dWSLEn"
+                  height="2"
+                  width="2.826907055732382%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Wissenschaftliche Publikation"
+              >
+                Wissenschaftliche Publikation
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                357
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU ftZRC"
+                  height="2"
+                  width="2.7473565035353427%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Tagungsband (Auszug)"
+              >
+                Tagungsband (Auszug)
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                207
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU jrImjm"
+                  height="2"
+                  width="2.4333411659154507%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Buch (Auszug)"
+              >
+                Buch (Auszug)
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                103
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU jppDkH"
+                  height="2"
+                  width="2.215623865165659%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Journal"
+              >
+                Journal
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                64
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU fOKAmU"
+                  height="2"
+                  width="2.1339798773844874%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Vorabdruck"
+              >
+                Vorabdruck
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                38
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU cvpKDe"
+                  height="2"
+                  width="2.0795505521970394%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Tagungsband"
+              >
+                Tagungsband
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                33
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU tOAPg"
+                  height="2"
+                  width="2.069083374276376%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Poster"
+              >
+                Poster
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                16
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU gEGLvT"
+                  height="2"
+                  width="2.0334949693461217%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Presentation"
+              >
+                Presentation
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                8
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU gQnjGB"
+                  height="2"
+                  width="2.016747484673061%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Software"
+              >
+                Software
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                8
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU gQnjGB"
+                  height="2"
+                  width="2.016747484673061%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Habilitation"
+              >
+                Habilitation
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                7
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU hfyoGK"
+                  height="2"
+                  width="2.014654049088928%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Daten"
+              >
+                Daten
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                5
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU eiVkDt"
+                  height="2"
+                  width="2.010467177920663%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Festschrift"
+              >
+                Festschrift
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                5
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU eiVkDt"
+                  height="2"
+                  width="2.010467177920663%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="interaktive Ressource"
+              >
+                interaktive Ressource
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                4
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU bHsMTK"
+                  height="2"
+                  width="2.0083737423365307%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Handbuch"
+              >
+                Handbuch
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                4
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU bHsMTK"
+                  height="2"
+                  width="2.0083737423365307%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Lernmaterial"
+              >
+                Lernmaterial
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                2
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU jGacCj"
+                  height="2"
+                  width="2.0041868711682653%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Diagramm"
+              >
+                Diagramm
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                1
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU eElcgb"
+                  height="2"
+                  width="2.0020934355841327%"
+                />
+              </td>
+            </tr>
+            <tr
+              class="sc-gZMcBi kbFdoy"
+            >
+              <td
+                class="sc-VigVT frYtZr"
+                color="greyDark"
+                title="Patent"
+              >
+                Patent
+              </td>
+              <td
+                class="sc-jTzLTM bwfcDe"
+                color="grey"
+              >
+                1
+              </td>
+              <td
+                class="sc-fjdhpX hAUhPj"
+              >
+                <div
+                  class="sc-bdVaJa sc-gqjmRU eElcgb"
+                  height="2"
+                  width="2.0020934355841327%"
+                />
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div
+        class="sc-bdVaJa sc-bwzfXH quZnZ"
+      >
+        <a
+          class="sc-bdVaJa sc-htpNat sc-ifAKCX sc-hMqMXs fwGqEV"
+          color="blue"
+          font-size="0"
+          font-weight="500"
+        >
+          Alles anzeigen
+        </a>
+      </div>
+    </div>
+    <div
+      class="sc-bdVaJa sc-htoDjs bZvMhP"
+    >
+      <h2
+        class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+        color="blueDark"
+        font-size="2"
+        font-weight="500"
+      >
+        Thema
+      </h2>
+      <div
+        class="sc-bdVaJa sc-eNQAEJ dChLpc"
+      >
+        <div
+          class="sc-bdVaJa sc-jzJRlG kHObkz"
+          data-testid="grid"
+          size="10"
+        >
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG iEplYp"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+          <div
+            class="sc-cSHVUG joKvVR"
+            data-testid="cell"
+          />
+        </div>
+      </div>
+      <ul
+        class="sc-ckVGcZ eHdLWN"
+      >
+        <li
+          class="sc-jKJlTe ItYRm"
+          font-size="0"
+        >
+          bekannt
+        </li>
+        <li
+          class="sc-jKJlTe hqaXqp"
+          font-size="0"
+        >
+          unbekannt
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

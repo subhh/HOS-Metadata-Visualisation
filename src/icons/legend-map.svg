@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="45" viewBox="0 0 100 45">
+  <g fill="none" fill-rule="evenodd" transform="translate(0 -3)">
+    <circle cx="8" cy="11" r="8" fill="#326774" opacity=".66"/>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="23" y="15">Einrichtung</tspan>
+    </text>
+    <circle cx="8" cy="40" r="8" fill="#92CDDA" opacity=".66"/>
+    <text fill="#595959" font-family="OpenSans-Semibold, Open Sans" font-size="14" font-weight="500">
+      <tspan x="23" y="44">Cluster</tspan>
+    </text>
+  </g>
+</svg>

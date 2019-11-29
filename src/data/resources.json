@@ -1,0 +1,21 @@
+{
+  "Article": "Artikel",
+  "Dissertation": "Dissertation",
+  "Book": "Buch",
+  "Book Part": "Buch (Auszug)",
+  "Thesis": "Thesis",
+  "Digital": "Digital",
+  "Working Paper": "Diskussionspapier",
+  "Technical Report": "Technischer Bericht",
+  "Conference Object": "Konferenzobjekt",
+  "Other": "Andere",
+  "Research Paper": "Wissenschaftliche Publikation",
+  "Proceedings Part": "Tagungsband (Auszug)",
+  "Proceedings": "Tagungsband",
+  "Preprint": "Vorabdruck",
+  "Dataset": "Daten",
+  "Interactive Resource": "interaktive Ressource",
+  "Manual": "Handbuch",
+  "Diagram": "Diagramm",
+  "Learning Object": "Lernmaterial"
+}

@@ -1,0 +1,1351 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot with data provided 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      Title
+    </h2>
+    <div
+      class="sc-bdVaJa sc-eNQAEJ dChLpc"
+    >
+      <div
+        class="sc-bdVaJa sc-jzJRlG kHObkz"
+        data-testid="grid"
+        size="10"
+      >
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+      </div>
+    </div>
+    <ul
+      class="sc-ckVGcZ eHdLWN"
+    >
+      <li
+        class="sc-jKJlTe ItYRm"
+        font-size="0"
+      >
+        var1
+      </li>
+      <li
+        class="sc-jKJlTe hqaXqp"
+        font-size="0"
+      >
+        var2
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`should match snapshot with flipped colors 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      Title
+    </h2>
+    <div
+      class="sc-bdVaJa sc-eNQAEJ dChLpc"
+    >
+      <div
+        class="sc-bdVaJa sc-jzJRlG kHObkz"
+        data-testid="grid"
+        size="10"
+      >
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+      </div>
+    </div>
+    <ul
+      class="sc-ckVGcZ eHdLWN"
+    >
+      <li
+        class="sc-jKJlTe hqaXqp"
+        font-size="0"
+      >
+        var1
+      </li>
+      <li
+        class="sc-jKJlTe ItYRm"
+        font-size="0"
+      >
+        var2
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`should match snapshot with reversed order 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <h2
+      class="sc-bdVaJa sc-htpNat sc-bxivhb sc-dnqmqq fCKnkB"
+      color="blueDark"
+      font-size="2"
+      font-weight="500"
+    >
+      Title
+    </h2>
+    <div
+      class="sc-bdVaJa sc-eNQAEJ dChLpc"
+    >
+      <div
+        class="sc-bdVaJa sc-jzJRlG kHObkz"
+        data-testid="grid"
+        size="10"
+      >
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG iEplYp"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+        <div
+          class="sc-cSHVUG joKvVR"
+          data-testid="cell"
+        />
+      </div>
+    </div>
+    <ul
+      class="sc-ckVGcZ eHdLWN"
+    >
+      <li
+        class="sc-jKJlTe ItYRm"
+        font-size="0"
+      >
+        var2
+      </li>
+      <li
+        class="sc-jKJlTe hqaXqp"
+        font-size="0"
+      >
+        var1
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`should match snapshot without data 1`] = `
+<div>
+  <div
+    class="sc-bdVaJa sc-htoDjs bZvMhP"
+  >
+    <div
+      class="sc-bdVaJa sc-eNQAEJ dChLpc"
+    >
+      <div
+        class="sc-bdVaJa sc-jzJRlG kHObkz"
+        data-testid="grid"
+        size="10"
+      />
+    </div>
+    <ul
+      class="sc-ckVGcZ eHdLWN"
+    />
+  </div>
+</div>
+`;
