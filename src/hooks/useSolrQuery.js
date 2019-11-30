@@ -8,10 +8,10 @@ const { REACT_APP_SOLR_API } = process.env
 const useSolrQuery = (template, query) => {
   return useMemo(() => {
     const q = query && query !== '*' ? `"${encodeURIComponent(query)}"` : '*'
-
-    return `${REACT_APP_SOLR_API}?q=${q}&rows=0${
-      template ? '&json.facet=' + JSON.stringify(template) : ''
-    }`
+    var params = 'q='+q+'&rows=0';
+    if (template) params += ('&json.facet=' + JSON.stringify(template));
+    
+    return REACT_APP_SOLR_API.replace('${window.location.host}',window.location.host) + encodeURIComponent(params);
   }, [query, template])
 }
 

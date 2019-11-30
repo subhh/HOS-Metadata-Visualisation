@@ -22,8 +22,8 @@ const Map = ({
   const { query } = useContext(StateContext)
 
   const [viewport, setViewport] = useState({
-    latitude: 53.52371330496759,
-    longitude: 10.02377202702206,
+    latitude: 53.5237,
+    longitude: 10.02,
     zoom: 9.5,
     minZoom: 9.5,
     maxZoom: 16,
@@ -40,6 +40,8 @@ const Map = ({
     setViewport(viewport)
   }, [])
 
+  const MAPBOX_TOKEN = "pk.eyJ1Ijoic21peWFrYXdhIiwiYSI6ImNqbDVncmNjYjBoMjQzbG50bnVxNWk2YW8ifQ.uy0MalaDN4I5MxPYT99hMA";
+
   const geoLocations = useFetchGeo(query)
   const geoFeatures = useGeoFeatures(geoLocations)
   const mapStyle = useMapStyle({
@@ -53,6 +55,7 @@ const Map = ({
       {...viewport}
       width={width}
       height={height}
+      getCursor={() => "crosshair"}
       mapStyle={mapStyle}
       onViewportChange={handleViewportChange}
     >

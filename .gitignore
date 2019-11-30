@@ -13,6 +13,7 @@ setupProxy.js
 # assets
 src/fonts
 public/glyphs
+src/glyphs
 
 # deployment
 scripts

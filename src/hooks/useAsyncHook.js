@@ -21,7 +21,6 @@ const useAsyncHook = (url, cb) => {
   useEffect(() => {
     setIsLoading(true)
   }, [url])
-
   useEffect(() => {
     let isMounted = true
 

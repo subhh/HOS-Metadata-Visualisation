@@ -11,6 +11,7 @@ const Button = styled(ReButton).attrs({
   px: 3,
 })`
   white-space: nowrap;
+  cursor:pointer;
   outline: none;
   transition: all 0.2s ease-in-out;
   font-size: ${({ theme }) => theme.fontSizes[1]}px;
