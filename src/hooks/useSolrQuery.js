@@ -10,8 +10,8 @@ const useSolrQuery = (template, query) => {
     const q = query && query !== '*' ? `"${encodeURIComponent(query)}"` : '*'
     var params = 'q='+q+'&rows=0';
     if (template) params += ('&json.facet=' + JSON.stringify(template));
-    
-    return REACT_APP_SOLR_API.replace('${window.location.host}',window.location.host) + encodeURIComponent(params);
+    return REACT_APP_SOLR_API.replace('__HOST_',window.location.host) 
+        + encodeURIComponent(params);
   }, [query, template])
 }
 

@@ -53,7 +53,7 @@ const Map = ({
       {...viewport}
       width={width}
       height={height}
-      getCursor={() => "crosshair"}
+     
       mapStyle={mapStyle}
       onViewportChange={handleViewportChange}
     >
