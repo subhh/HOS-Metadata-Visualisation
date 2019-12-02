@@ -40,8 +40,6 @@ const Map = ({
     setViewport(viewport)
   }, [])
 
-  const MAPBOX_TOKEN = "pk.eyJ1Ijoic21peWFrYXdhIiwiYSI6ImNqbDVncmNjYjBoMjQzbG50bnVxNWk2YW8ifQ.uy0MalaDN4I5MxPYT99hMA";
-
   const geoLocations = useFetchGeo(query)
   const geoFeatures = useGeoFeatures(geoLocations)
   const mapStyle = useMapStyle({
