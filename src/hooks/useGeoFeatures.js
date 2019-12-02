@@ -10,14 +10,12 @@ const useGeoFeatures = geo => {
     return {
       type: 'FeatureCollection',
       features: geo.map(({ count, lng, lat, collection }) => {
-        const col = collection.buckets.map(b => b.val).join('-')
-
         return {
           type: 'Feature',
           properties: {
             count,
             radius: scale(count),
-            label: col,
+            label: collection.buckets.map(b => b.val).join('-'),
           },
           geometry: {
             type: 'Point',
